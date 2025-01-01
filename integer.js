@@ -100,12 +100,20 @@
 
 // console.log(qushish, kupaytirish);
 
-let a = 241;
-let x = Math.floor(a / 100);
-let y = Math.floor((a % 100) /10);
-let z = a % 10;
+// let a = 241;
+// let x = Math.floor(a / 100);
+// let y = Math.floor((a % 100) /10);
+// let z = a % 10;
 
-let qushish = x + y + z;
-let kupaytirish = x * y * z;
+// let qushish = x + y + z;
+// let kupaytirish = x * y * z;
 
-console.log(qushish, kupaytirish);
+// console.log(qushish, kupaytirish);
+
+// Integer 20
+
+// let x = 1 + 2/3;
+// let y = 3 + 1/4;
+// let z = Math.abs(x-y);
+
+// console.log(z);
