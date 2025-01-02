@@ -152,6 +152,6 @@
 
 // Integer10
 
-let a = 0.5;
-let x = Math.cos(a);
-console.log(x);
+// let a = 0.5;
+// let x = Math.cos(a);
+// console.log(x);
